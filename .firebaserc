@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "profile-dl92": {
+      "hosting": {
+        "profile": [
+          "profile-dl92"
+        ]
+      }
+    }
+  }
+}
